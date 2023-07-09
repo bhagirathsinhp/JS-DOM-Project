@@ -2,7 +2,7 @@
 
 ---
 
-## Favorite Movie List: 
+## Favorite Movies List: 
 
 ![Screenshot 2023-07-09 at 17-20-30 Favorite Movies](https://github.com/bhagirathsinhp/JS-DOM-Project/assets/113514121/c9e58667-e255-4e74-835a-53af13e5746d)
 
